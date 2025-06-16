@@ -1,0 +1,64 @@
+
+.main_heading {
+    color: #5a7184;
+    font-size: 20px;
+    font-family: Roboto;
+
+}
+
+.background_images {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 40vh;
+    background-size: cover;
+
+}
+
+.headings {
+    color: #ffffff;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.puri_pic {
+    padding: 10px;
+    height: 140px;
+    font-family: Roboto;
+}
+
+.puri_heading {
+    color: #151765;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.puri_blue_card {
+    background-color: #151765;
+    height: 150px;
+    font-family: Roboto;
+    margin: 10px;
+    padding: 5px;
+}
+
+.puri_para {
+    color: #ffffff;
+}
+
+.puri_heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: Roboto;
+
+}
+
+
+.puri_paras {
+    color: #5a7184;
+    font-family: Roboto;
+}
+
+.puri_headings {
+    color: #151765;
+    font-size: 20px;
+    font-family: Roboto;
+
+}
